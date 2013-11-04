@@ -1,6 +1,3 @@
--- Name: Mason Mabardy
--- Date: September 21, 2013
--- ITEC 320 Procedural Programming
 -- Purpose: Approximate fractions in binary and floating point notation
 -- Input: Pair of numbers (x,y) from standard input
 -- Output: X approximated to y loops

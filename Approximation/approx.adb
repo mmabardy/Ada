@@ -1,6 +1,3 @@
--- Mason Mabardy
--- Homework 01
--- 9/9/2013
 -- This program will approximate values with powers of 2.
 WITH ada.text_io; USE ada.text_io;
 WITH ada.integer_Text_io; USE ada.integer_text_io;
